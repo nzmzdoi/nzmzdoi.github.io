@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>bsub</title>
+    <url>/2020/03/06/bsub/</url>
+    <content><![CDATA[<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <categories>
+        <category>B</category>
+      </categories>
+      <tags>
+        <tag>btag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>bsub1</title>
+    <url>/2020/03/06/bsub1/</url>
+    <content><![CDATA[<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <categories>
+        <category>B</category>
+      </categories>
+      <tags>
+        <tag>btag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>asub2</title>
+    <url>/2020/03/06/asub2/</url>
+    <content><![CDATA[<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <categories>
+        <category>A</category>
+      </categories>
+      <tags>
+        <tag>atag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>asub1</title>
+    <url>/2020/03/06/asub1/</url>
+    <content><![CDATA[<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <categories>
+        <category>A</category>
+      </categories>
+      <tags>
+        <tag>atag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>置顶</title>
+    <url>/2020/03/05/%E7%BD%AE%E9%A1%B6/</url>
+    <content><![CDATA[<ul>
+<li><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a><strong>写在前面</strong></h2></li>
+</ul>
+<p>本站仅出于对《利兹与青鸟》和のぞみぞ的喜爱，为方便大家入坑而设立。在此感谢程序员@MillerRabbin和@Yukimaru对搭建网站的无偿付出  (ฅ´ω`ฅ) </p>
+<hr>
+<ul>
+<li><h2 id="什么是“利兹与青鸟”、“のぞみぞ“"><a href="#什么是“利兹与青鸟”、“のぞみぞ“" class="headerlink" title="什么是“利兹与青鸟”、“のぞみぞ“"></a><strong>什么是“利兹与青鸟”、“のぞみぞ“</strong></h2></li>
+</ul>
+<p>《利兹与青鸟》（リズと青い鳥；Liz und ein Blauer Vogel，以下简称利青）是由京都动画制作的一部动画电影。以《吹响!上低音号》（響け！ユーフォニアム，以下简称京吹）原作为背景，作品改编自武田绫乃于2017年发行的《北宇治高中吹奏乐部~波澜的第二乐章》</p>
+<p>即是说《利青》与《京吹》为番外与正作关系，如果看完利青后有对这个系列感兴趣的小伙伴，也可以观看京吹本篇动画拓展了解剧情。虽然本站是出于对利青的喜爱设立，但京吹中的其他角色也都非常有爱，配对也各具特色，一定有一款会对您的胃口。</p>
+<p>のぞみぞ（nozomizo/nzmz）为利青主角伞木希美（かさき のぞみ）与铠冢霙（よろいづか みぞれ）相组的配对缩写，取自二人名字前两个字。</p>
+<hr>
+<ul>
+<li><h2 id="相关资源在线观看与下载"><a href="#相关资源在线观看与下载" class="headerlink" title="相关资源在线观看与下载"></a><strong>相关资源在线观看与下载</strong></h2></li>
+</ul>
+<p><em>资源仅为转载，节约大家在网上的寻找时间，具体汉化成果为各汉化组和版权方所有，资源分享成果为上传者所有。如原地址挂档请lofter联系@野猪骑士（豚），之后将会及时进行自行补档。</em></p>
+<h3 id="动画"><a href="#动画" class="headerlink" title="动画"></a>动画</h3><p><a href="https://postimg.cc/N9vTwTLk" target="_blank" rel="noopener"><img src="https://i.postimg.cc/W3h7gwvC/QQ-20200306120929.jpg" alt="QQ-20200306120929.jpg"></a></p>
+<h5 id="《利兹与青鸟》-包含台本注释版"><a href="#《利兹与青鸟》-包含台本注释版" class="headerlink" title="《利兹与青鸟》(包含台本注释版)"></a><strong>《利兹与青鸟》</strong>(包含台本注释版)</h5><p>在线观看：<a href="https://www.iqiyi.com/v_19rue07h9o.html" target="_blank" rel="noopener">爱奇艺在线地址</a></p>
+<p>下载：<a href="https://mikanani.me/Home/Bangumi/1754" target="_blank" rel="noopener">蜜柑计划</a></p>
+<p><a href="https://postimg.cc/kVm80K2F" target="_blank" rel="noopener"><img src="https://i.postimg.cc/g0wD6Kd5/QQ-20200306121825.jpg" alt="QQ-20200306121825.jpg"></a></p>
+<p><strong>《吹响！上低音号 第一季》</strong>(1-13集+1-4sp)</p>
+<p>在线观看：<a href="https://www.bilibili.com/bangumi/media/md1547" target="_blank" rel="noopener">B站</a></p>
+<p>下载：<a href="https://mikanani.me/Home/Bangumi/508" target="_blank" rel="noopener">蜜柑计划</a></p>
+<p><a href="https://postimg.cc/QB8PXBP1" target="_blank" rel="noopener"><img src="https://i.postimg.cc/TPgXJgJ7/QQ-20200306122411.jpg" alt="QQ-20200306122411.jpg"></a></p>
+<p><strong>《吹响！上低音号 第二季》</strong>(1-13集+1-4sp)</p>
+<p>在线观看：<a href="https://www.bilibili.com/bangumi/media/md28223434" target="_blank" rel="noopener">B站（需大会员）</a></p>
+<p>下载：<a href="https://mikanani.me/Home/Bangumi/857" target="_blank" rel="noopener">蜜柑计划</a></p>
+<p><a href="https://postimg.cc/LYMVHGh7" target="_blank" rel="noopener"><img src="https://i.postimg.cc/xCXpP2Q0/QQ-20200306123939.jpg" alt="QQ-20200306123939.jpg"></a></p>
+<p> <strong>剧场版 吹响！悠风号～欢迎来到北宇治高中吹奏乐部～</strong> </p>
+<p>在线观看：<a href="https://www.bilibili.com/bangumi/media/md28223435" target="_blank" rel="noopener">B站（需大会员</a></p>
+<p>下载：<a href="https://mikanani.me/Home/Bangumi/1136" target="_blank" rel="noopener">蜜柑计划</a></p>
+<p><a href="https://postimg.cc/BXCBJhG7" target="_blank" rel="noopener"><img src="https://i.postimg.cc/L6cCB7QS/QQ-20200306123722.jpg" alt="QQ-20200306123722.jpg"></a></p>
+<p> <strong>剧场版 吹响！悠风号～想要传达的旋律～</strong> </p>
+<p>在线观看：<a href="https://www.bilibili.com/bangumi/media/md28223447" target="_blank" rel="noopener">B站（需大会员）</a></p>
+<p>下载：<a href="https://mikanani.me/Home/Bangumi/1530" target="_blank" rel="noopener">蜜柑计划</a></p>
+<p><a href="https://postimg.cc/XG81tnxx" target="_blank" rel="noopener"><img src="https://i.postimg.cc/brcXDJnX/QQ-20200306124218.jpg" alt="QQ-20200306124218.jpg"></a></p>
+<p> <strong>剧场版 吹响！悠风号～誓言的终章～</strong> </p>
+<p>在线观看：<a href="https://www.bilibili.com/bangumi/media/md28223448" target="_blank" rel="noopener">B站（需大会员）</a></p>
+<p>下载：<a href="https://mikanani.me/Home/Bangumi/2105" target="_blank" rel="noopener">蜜柑计划</a></p>
+<h3 id="小说"><a href="#小说" class="headerlink" title="小说"></a>小说</h3><p>缺失第4卷。感谢贴吧大佬@____Savvy的整合上传</p>
+<p>吹响吧！上低音号：决意的最终乐章<br>吹响吧！上低音号：欢迎来到立华高校舞奏队<br>吹响吧！上低音号：欢迎加入北宇治高中管乐社<br>吹响吧！上低音号：波澜起伏的第二乐章<br>吹响吧！上低音号：波澜起伏的第二乐章<br>吹响吧！上低音号：北宇治吹奏部真实的故事<br>吹响吧！上低音号：北宇治吹奏部日志<br>吹响吧！上低音号3：最大的危机<br>吹响吧！上低音号2：最火热的夏天</p>
+<p>下载:<a href="https://tieba.baidu.com/p/6528177067" target="_blank" rel="noopener">贴吧</a></p>
+<p>百度盘短链接使用说明：在pan.baidu.com/后面加上短链接</p>
+<h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><p>[Hires] 利兹与青鸟 OST「girls,dance,staircase]</p>
+<p>下载：<a href="https://tieba.baidu.com/p/5702043973?red_tag=2737991387" target="_blank" rel="noopener">贴吧</a></p>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <categories>
+        <category>小站事务</category>
+      </categories>
+  </entry>
+</search>
